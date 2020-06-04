@@ -1,0 +1,110 @@
+[
+    {
+        "merged": "E:\\project\\demo\\IjkPlayerView-master\\sample\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi-v4\\ic_brightness.png",
+        "source": "E:\\project\\demo\\IjkPlayerView-master\\playerview\\build\\intermediates\\packaged_res\\debug\\mipmap-xxhdpi-v4\\ic_brightness.png"
+    },
+    {
+        "merged": "E:\\project\\demo\\IjkPlayerView-master\\sample\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi-v4\\photo.jpg",
+        "source": "E:\\project\\demo\\IjkPlayerView-master\\sample\\src\\main\\res\\mipmap-xxhdpi\\photo.jpg"
+    },
+    {
+        "merged": "E:\\project\\demo\\IjkPlayerView-master\\sample\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi-v4\\ic_player_lock.png",
+        "source": "E:\\project\\demo\\IjkPlayerView-master\\playerview\\build\\intermediates\\packaged_res\\debug\\mipmap-xxhdpi-v4\\ic_player_lock.png"
+    },
+    {
+        "merged": "E:\\project\\demo\\IjkPlayerView-master\\sample\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi-v4\\ic_volume_off.png",
+        "source": "E:\\project\\demo\\IjkPlayerView-master\\playerview\\build\\intermediates\\packaged_res\\debug\\mipmap-xxhdpi-v4\\ic_volume_off.png"
+    },
+    {
+        "merged": "E:\\project\\demo\\IjkPlayerView-master\\sample\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi-v4\\ic_cancel_danmaku.png",
+        "source": "E:\\project\\demo\\IjkPlayerView-master\\playerview\\build\\intermediates\\packaged_res\\debug\\mipmap-xxhdpi-v4\\ic_cancel_danmaku.png"
+    },
+    {
+        "merged": "E:\\project\\demo\\IjkPlayerView-master\\sample\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi-v4\\ic_media_quality_high.png",
+        "source": "E:\\project\\demo\\IjkPlayerView-master\\playerview\\build\\intermediates\\packaged_res\\debug\\mipmap-xxhdpi-v4\\ic_media_quality_high.png"
+    },
+    {
+        "merged": "E:\\project\\demo\\IjkPlayerView-master\\sample\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi-v4\\ic_return_back.png",
+        "source": "E:\\project\\demo\\IjkPlayerView-master\\playerview\\build\\intermediates\\packaged_res\\debug\\mipmap-xxhdpi-v4\\ic_return_back.png"
+    },
+    {
+        "merged": "E:\\project\\demo\\IjkPlayerView-master\\sample\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi-v4\\ic_player_unlock.png",
+        "source": "E:\\project\\demo\\IjkPlayerView-master\\playerview\\build\\intermediates\\packaged_res\\debug\\mipmap-xxhdpi-v4\\ic_player_unlock.png"
+    },
+    {
+        "merged": "E:\\project\\demo\\IjkPlayerView-master\\sample\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi-v4\\ic_danmaku_closed.png",
+        "source": "E:\\project\\demo\\IjkPlayerView-master\\playerview\\build\\intermediates\\packaged_res\\debug\\mipmap-xxhdpi-v4\\ic_danmaku_closed.png"
+    },
+    {
+        "merged": "E:\\project\\demo\\IjkPlayerView-master\\sample\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi-v4\\ic_cancel_skip.png",
+        "source": "E:\\project\\demo\\IjkPlayerView-master\\playerview\\build\\intermediates\\packaged_res\\debug\\mipmap-xxhdpi-v4\\ic_cancel_skip.png"
+    },
+    {
+        "merged": "E:\\project\\demo\\IjkPlayerView-master\\sample\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi-v4\\ic_danmaku_open.png",
+        "source": "E:\\project\\demo\\IjkPlayerView-master\\playerview\\build\\intermediates\\packaged_res\\debug\\mipmap-xxhdpi-v4\\ic_danmaku_open.png"
+    },
+    {
+        "merged": "E:\\project\\demo\\IjkPlayerView-master\\sample\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi-v4\\ic_volume_on.png",
+        "source": "E:\\project\\demo\\IjkPlayerView-master\\playerview\\build\\intermediates\\packaged_res\\debug\\mipmap-xxhdpi-v4\\ic_volume_on.png"
+    },
+    {
+        "merged": "E:\\project\\demo\\IjkPlayerView-master\\sample\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi-v4\\ic_fast_forward.png",
+        "source": "E:\\project\\demo\\IjkPlayerView-master\\playerview\\build\\intermediates\\packaged_res\\debug\\mipmap-xxhdpi-v4\\ic_fast_forward.png"
+    },
+    {
+        "merged": "E:\\project\\demo\\IjkPlayerView-master\\sample\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi-v4\\ic_media_quality_bd.png",
+        "source": "E:\\project\\demo\\IjkPlayerView-master\\playerview\\build\\intermediates\\packaged_res\\debug\\mipmap-xxhdpi-v4\\ic_media_quality_bd.png"
+    },
+    {
+        "merged": "E:\\project\\demo\\IjkPlayerView-master\\sample\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi-v4\\ic_media_quality_smooth.png",
+        "source": "E:\\project\\demo\\IjkPlayerView-master\\playerview\\build\\intermediates\\packaged_res\\debug\\mipmap-xxhdpi-v4\\ic_media_quality_smooth.png"
+    },
+    {
+        "merged": "E:\\project\\demo\\IjkPlayerView-master\\sample\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi-v4\\ic_fullscreen.png",
+        "source": "E:\\project\\demo\\IjkPlayerView-master\\playerview\\build\\intermediates\\packaged_res\\debug\\mipmap-xxhdpi-v4\\ic_fullscreen.png"
+    },
+    {
+        "merged": "E:\\project\\demo\\IjkPlayerView-master\\sample\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi-v4\\ic_send_danmaku.png",
+        "source": "E:\\project\\demo\\IjkPlayerView-master\\playerview\\build\\intermediates\\packaged_res\\debug\\mipmap-xxhdpi-v4\\ic_send_danmaku.png"
+    },
+    {
+        "merged": "E:\\project\\demo\\IjkPlayerView-master\\sample\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi-v4\\bg_card.9.png",
+        "source": "E:\\project\\demo\\IjkPlayerView-master\\sample\\src\\main\\res\\mipmap-xxhdpi\\bg_card.9.png"
+    },
+    {
+        "merged": "E:\\project\\demo\\IjkPlayerView-master\\sample\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi-v4\\ic_media_quality_super.png",
+        "source": "E:\\project\\demo\\IjkPlayerView-master\\playerview\\build\\intermediates\\packaged_res\\debug\\mipmap-xxhdpi-v4\\ic_media_quality_super.png"
+    },
+    {
+        "merged": "E:\\project\\demo\\IjkPlayerView-master\\sample\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi-v4\\ic_fast_rewind.png",
+        "source": "E:\\project\\demo\\IjkPlayerView-master\\playerview\\build\\intermediates\\packaged_res\\debug\\mipmap-xxhdpi-v4\\ic_fast_rewind.png"
+    },
+    {
+        "merged": "E:\\project\\demo\\IjkPlayerView-master\\sample\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi-v4\\ic_fullscreen_exit.png",
+        "source": "E:\\project\\demo\\IjkPlayerView-master\\playerview\\build\\intermediates\\packaged_res\\debug\\mipmap-xxhdpi-v4\\ic_fullscreen_exit.png"
+    },
+    {
+        "merged": "E:\\project\\demo\\IjkPlayerView-master\\sample\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi-v4\\ic_play_circle.png",
+        "source": "E:\\project\\demo\\IjkPlayerView-master\\playerview\\build\\intermediates\\packaged_res\\debug\\mipmap-xxhdpi-v4\\ic_play_circle.png"
+    },
+    {
+        "merged": "E:\\project\\demo\\IjkPlayerView-master\\sample\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi-v4\\ic_video_pause.png",
+        "source": "E:\\project\\demo\\IjkPlayerView-master\\playerview\\build\\intermediates\\packaged_res\\debug\\mipmap-xxhdpi-v4\\ic_video_pause.png"
+    },
+    {
+        "merged": "E:\\project\\demo\\IjkPlayerView-master\\sample\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi-v4\\ic_video_play.png",
+        "source": "E:\\project\\demo\\IjkPlayerView-master\\playerview\\build\\intermediates\\packaged_res\\debug\\mipmap-xxhdpi-v4\\ic_video_play.png"
+    },
+    {
+        "merged": "E:\\project\\demo\\IjkPlayerView-master\\sample\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi-v4\\ic_launcher.png",
+        "source": "E:\\project\\demo\\IjkPlayerView-master\\sample\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\project\\demo\\IjkPlayerView-master\\sample\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi-v4\\ic_video_screenshot.png",
+        "source": "E:\\project\\demo\\IjkPlayerView-master\\playerview\\build\\intermediates\\packaged_res\\debug\\mipmap-xxhdpi-v4\\ic_video_screenshot.png"
+    },
+    {
+        "merged": "E:\\project\\demo\\IjkPlayerView-master\\sample\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi-v4\\ic_media_quality_medium.png",
+        "source": "E:\\project\\demo\\IjkPlayerView-master\\playerview\\build\\intermediates\\packaged_res\\debug\\mipmap-xxhdpi-v4\\ic_media_quality_medium.png"
+    }
+]

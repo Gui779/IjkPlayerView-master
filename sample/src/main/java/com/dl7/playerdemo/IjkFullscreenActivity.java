@@ -8,9 +8,7 @@ import com.dl7.player.media.IjkPlayerView;
 
 public class IjkFullscreenActivity extends AppCompatActivity {
 
-    //    private static final String VIDEO_URL = "http://flv2.bn.netease.com/videolib3/1611/28/nNTov5571/SD/nNTov5571-mobile.mp4";
-    private static final String VIDEO_URL =  "rtmp://video.xiangfei.com/live/" + "11VKF4200204LU"
-            + "?psk=2506381488a441469eb521de846b9c72";
+    private static final String VIDEO_URL = "http://flv2.bn.netease.com/videolib3/1611/28/nNTov5571/SD/nNTov5571-mobile.mp4";
     private static final String IMAGE_URL = "http://vimg3.ws.126.net/image/snapshot/2016/11/C/T/VC628QHCT.jpg";
     IjkPlayerView mPlayerView;
 

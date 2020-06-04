@@ -1,0 +1,4 @@
+#Wed Jun 03 17:48:19 CST 2020
+base.0=E\:\\project\\demo\\IjkPlayerView-master\\sample\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+path.0=classes.dex
+renamed.0=classes.dex

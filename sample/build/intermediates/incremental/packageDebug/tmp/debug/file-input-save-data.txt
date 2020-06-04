@@ -1,0 +1,27 @@
+#Internal package file, do not edit.
+#Wed Jun 03 17:48:20 CST 2020
+2.base=E\:\\project\\demo\\IjkPlayerView-master\\sample\\build\\intermediates\\transforms\\mergeJniLibs\\debug\\0
+5.set=ASSET
+0.path=lib/armeabi-v7a/libijksdl.so
+2.baseType=DIRECTORY
+3.base=E\:\\project\\demo\\IjkPlayerView-master\\sample\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+2.set=NATIVE_RESOURCE
+1.path=afun.json
+4.base=E\:\\project\\demo\\IjkPlayerView-master\\sample\\build\\intermediates\\transforms\\mergeJniLibs\\debug\\0
+count=6
+5.baseType=DIRECTORY
+2.path=lib/armeabi-v7a/libijkplayer.so
+5.base=E\:\\project\\demo\\IjkPlayerView-master\\sample\\build\\intermediates\\merged_assets\\debug\\mergeDebugAssets\\out
+4.set=NATIVE_RESOURCE
+3.path=classes.dex
+3.baseType=DIRECTORY
+1.set=ASSET
+4.path=lib/armeabi-v7a/libijkffmpeg.so
+1.baseType=DIRECTORY
+5.path=custom.json
+0.base=E\:\\project\\demo\\IjkPlayerView-master\\sample\\build\\intermediates\\transforms\\mergeJniLibs\\debug\\0
+0.baseType=DIRECTORY
+3.set=DEX
+1.base=E\:\\project\\demo\\IjkPlayerView-master\\sample\\build\\intermediates\\merged_assets\\debug\\mergeDebugAssets\\out
+4.baseType=DIRECTORY
+0.set=NATIVE_RESOURCE

@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "E:\\project\\demo\\IjkPlayerView-master\\sample\\build\\intermediates\\res\\merged\\debug\\interpolator\\mtrl_linear_out_slow_in.xml",
+        "source": "C:\\Users\\ADMIN\\.gradle\\caches\\transforms-1\\files-1.1\\design-28.0.0.aar\\8be7c06bb8dfa6a1997359fbbb1bbac2\\res\\interpolator\\mtrl_linear_out_slow_in.xml"
+    },
+    {
+        "merged": "E:\\project\\demo\\IjkPlayerView-master\\sample\\build\\intermediates\\res\\merged\\debug\\interpolator\\mtrl_fast_out_linear_in.xml",
+        "source": "C:\\Users\\ADMIN\\.gradle\\caches\\transforms-1\\files-1.1\\design-28.0.0.aar\\8be7c06bb8dfa6a1997359fbbb1bbac2\\res\\interpolator\\mtrl_fast_out_linear_in.xml"
+    },
+    {
+        "merged": "E:\\project\\demo\\IjkPlayerView-master\\sample\\build\\intermediates\\res\\merged\\debug\\interpolator\\mtrl_linear.xml",
+        "source": "C:\\Users\\ADMIN\\.gradle\\caches\\transforms-1\\files-1.1\\design-28.0.0.aar\\8be7c06bb8dfa6a1997359fbbb1bbac2\\res\\interpolator\\mtrl_linear.xml"
+    },
+    {
+        "merged": "E:\\project\\demo\\IjkPlayerView-master\\sample\\build\\intermediates\\res\\merged\\debug\\interpolator\\mtrl_fast_out_slow_in.xml",
+        "source": "C:\\Users\\ADMIN\\.gradle\\caches\\transforms-1\\files-1.1\\design-28.0.0.aar\\8be7c06bb8dfa6a1997359fbbb1bbac2\\res\\interpolator\\mtrl_fast_out_slow_in.xml"
+    }
+]
